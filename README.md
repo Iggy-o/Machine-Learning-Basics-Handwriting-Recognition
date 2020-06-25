@@ -4,6 +4,8 @@
 I learned a lot about ML, parsing through external training data, object oriented programming, async functions and more.
 
 
+
+
 [![License](https://img.shields.io/badge/Quick-Preview-brightgreen)](https://repl.it/@IghoiseO/Machine-Learning-Basics-Handwriting-Recognition#index.html)
 
 
