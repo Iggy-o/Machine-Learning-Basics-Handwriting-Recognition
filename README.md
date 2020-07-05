@@ -3,6 +3,7 @@
 >A proprietary Machine Learning Library I made for me to use in my future personal projects.
 I learned a lot about ML, parsing through external training data, object oriented programming, async functions and more.
 <br><br>-Ighoise Odigie ||| Inquiries: iodigie03@gmail.com
+<br>
 
 
 [![License](https://img.shields.io/badge/Quick-Preview-brightgreen)](https://repl.it/@IghoiseO/Machine-Learning-Basics-Handwriting-Recognition#index.html)
