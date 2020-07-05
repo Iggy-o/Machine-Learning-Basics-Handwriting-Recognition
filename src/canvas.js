@@ -5,7 +5,7 @@ let dataImageSize = 28;
 function preload(){
   //The setup data class is initialized and data is loaded into the program
   dataSet = new setupData(dataImageSize, canvasSize);
-  for (let i = 9; i >= 0; i--) dataSet.loadData(`mnist/data${i}`);
+  for (let i = 9; i >= 0; i--) dataSet.loadData(`test/mnist/data${i}`);
 }
 
 //Setup is a p5 function used to initialize objects like canvases
