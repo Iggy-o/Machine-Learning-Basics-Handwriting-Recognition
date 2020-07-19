@@ -36,7 +36,7 @@ class setupData{
       listPixels.push([]);
       for (let i = 0; i < dataImg.pixels.length; i++){
         let index = i * 4;
-        if (i%4 == 0) listPixels[imageNum].push(data.bytes[i + imageNum]);
+        if (i%4 == 0) listPixels[imageNum].push(data.bytes[i + imageNum]/255);
         for (let j = 0; j < 3; j++) {
           dataImg.pixels[index + j] = data.bytes[i + h];
         }

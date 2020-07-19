@@ -22,7 +22,7 @@ class scribbleCanvas{
     let pixels = [];
     for(let i = 0; i < img.pixels.length; i++){
       if (i % 4 == 0) {
-        pixels.push(img.pixels[i]);
+        pixels.push(img.pixels[i]/255);
       }
     }
     //This should be turned on for testing compress quality: image(img, 0, 0);
