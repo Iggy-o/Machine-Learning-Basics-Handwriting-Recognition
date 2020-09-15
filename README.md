@@ -1,6 +1,6 @@
 ## Machine Learning Basics: Handwriting Recognition
 ### "A <a href = "https://en.wikipedia.org/wiki/Sorting_algorithm" target="_blank">neural network</a> primed to differentiate between handwritten digits"
-[![License](https://img.shields.io/badge/Quick-Preview-brightgreen)](https://repl.it/@IghoiseO/Machine-Learning-Basics-Handwriting-Recognition#index.html)
+[![License](https://img.shields.io/badge/Quick-Preview-brightgreen)](https://iggy-o.github.io/Machine-Learning-Basics-Handwriting-Recognition/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Iggy-o/Machine-Learning-Basics-Handwriting-Recognition/blob/master/LICENSE)
 
 <img src="assets/preview.gif" alt="preview" height = "250px">
